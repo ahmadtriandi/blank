@@ -1,0 +1,41 @@
+.mediaobject {
+	background: #eaeaea;
+}
+
+section {
+	min-height: 400px;
+}
+
+/*.portfolio {
+	padding-top: 40px;
+	background: #eaeaea;
+
+}*/
+
+.carousel1 {
+
+	padding-top: 40px;
+	background: #eaeaea;
+	min-height: 900px;
+
+}
+
+.mediaobject {
+	padding-top: 40px;
+
+}
+ hr  {
+	width: 250px;
+	border-top: 1px solid #333;
+}
+
+/*.carousel img {
+	width: 200px;
+	border: 5px solid #eaeaea;
+	box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+
+}
+*/
+
+
+
